@@ -249,6 +249,4 @@ Aspiring Data Analyst
 
 Skills: Excel, data analysis, KPI reporting, business insights, and data visualization.
 
-## Disclaimer
 
-This project is intended for educational and portfolio purposes. Any confidential or personally identifiable information should be removed before public sharing.
