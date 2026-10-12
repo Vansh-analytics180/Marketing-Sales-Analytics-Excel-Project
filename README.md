@@ -1,5 +1,9 @@
 # Marketing & Sales Analytics | Excel Project
 
+## Dashboard Preview
+
+<img width="1332" height="818" alt="Screenshot 2026-10-12 080246" src="https://github.com/user-attachments/assets/675e3917-bde1-4985-bf79-fbd08438b769" />
+
 ## Project Overview
 
 This project explores customer enquiries, sales activity, service response, issue resolution, and customer satisfaction using Microsoft Excel.
